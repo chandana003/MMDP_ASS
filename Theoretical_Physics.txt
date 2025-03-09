@@ -1,0 +1,7 @@
+Help | Advanced Search
+For a specific paper, enter the identifier into the top right search box.
+
+arXiv Operational Status 
+                    Get status notifications via
+                    email
+                    or slack
